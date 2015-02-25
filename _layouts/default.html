@@ -1,0 +1,197 @@
+﻿<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+        <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+        <script src="{{ site.baseurl }}/js/jquery.dropotron.min.js"></script>
+        <script src="{{ site.baseurl }}/js/skel.min.js"></script>
+        <script src="{{ site.baseurl }}/js/skel-layers.min.js"></script>
+        <script src="{{ site.baseurl }}/js/init.js"></script>
+		<noscript>
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/skel.css" />
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header">
+
+				<!-- Logo -->
+					<h1>
+                        <a href="index.html" id="logo">{{ site.name }}</a> 
+                        <br />
+                        Conference on Electronics, Telecommunications and Computers
+                        <br />
+                        3th – 5th February 2016, Lisbon, Portugal
+                    </h1>
+                    
+					<!--<span class="image banner"><img src="images/banner.jpg" alt="" /></span>-->
+					<section id="banner_bmenu">
+				
+					</section>
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+                            <li {% if "home" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}">CETC2016</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/#home-welcome">Welcome</a></li>
+                                    <li><a href="{{site.url}}/#home-dates">Dates</a></li>
+                                    <li><a href="{{site.url}}/#home-contacts">Contacts</a></li>
+                                    <li><a href="{{site.url}}/#home-previous">Previous Editions</a></li>
+                                </ul>
+                            </li>
+                            <li {% if "call-for-papers" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/callforpapers">Call For Papers</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/callforpapers#call-for-papers-topics">Conference Topics</a></li>
+                                    <li><a href="{{site.url}}/callforpapers#call-for-papers-dates">Important Dates</a></li>
+                                    <li><a href="#">Submission</a></li>
+                                    <li><a href="#">Proceedings</a></li>
+                                    <li><a href="#">Awards</a></li>
+                                </ul>
+                            </li>
+                            <li {% if "attending" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/attending">Attending</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/attending#attending-venue">Venue</a></li>
+                                    <li><a href="{{site.url}}/attending#attending-about-lisbon">About Lisbon</a></li>
+                                    <li><a href="#">Accommodation</a></li>
+                                    <li><a href="#">Visa Information</a></li>
+                                </ul>
+                            </li>
+                            <li {% if "program" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/program">Program</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/program#program-organizing-committee">Organizing Committee</a></li>
+                                    <li><a href="#">Scientific Committee</a></li>
+                                    <li><a href="#">Keynote Speakers</a></li>
+                                    <li><a href="#">Scientific Program</a></li>
+                                    <li><a href="#">Social Program</a></li>
+                                </ul>
+                            </li>
+							<li><a href="#">Sponsorship</a></li>
+							<li><a href="#">Registration</a></li>
+						</ul>
+					</nav>
+
+			</div>
+
+		<!-- Main -->
+			<section class="wrapper style1">
+				<div class="container">
+					<div class="row 200%">
+						<div class="3u 12u(narrower)">
+							<div id="sidebar1">
+
+								<!-- Sidebar 1 -->
+
+									<section>
+										<h3>News</h3>
+										<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
+										Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
+										Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis et nisi etiam.</p>
+										<footer>
+											<a href="#" class="button">Continue Reading</a>
+										</footer>
+									</section>
+
+							</div>
+						</div>
+						<div class="6u 12u(narrower) important(narrower)">
+							<div id="content">
+
+								<!-- Content -->
+
+									{{content}}
+							</div>
+						</div>
+						<div class="3u 12u(narrower)">
+							<div id="sidebar2">
+
+								<!-- Sidebar 2 -->
+									<section>
+										<h3>Hero Sponsors</h3>
+										<div class="sponsor-list" style="padding-left: 0; padding-bottom: 0">
+											<p>
+												<a href="http://samsung.com/" target="_blank">
+													<span class="image featured"><img alt="Samsung" title="Sponsored by Samnsung" src="{{ site.baseurl }}/images/sponsors/samsung4.png" /></span>
+												</a>
+											</p>
+										</div>
+										<h3>Champion Sponsors</h3>
+										<div class="sponsor-list">
+											<p>
+												<a href="http://golfsimulator.golfzon.com/" target="_blank">
+													<span class="image featured"><img alt="GolfZon" title="Sponsored by GolfZon" src="{{ site.baseurl }}/images/sponsors/golfzon-140.png" /></span>
+												</a>
+											</p>
+											<p>
+												<a href="http://www.google.com/" target="_blank">
+												        <span class="image featured"><img alt="Google" title="Sponsored by Google" src="{{ site.baseurl }}/images/sponsors/google-140.png" /></span>
+												</a>
+											</p>
+											<p>
+												<a href="http://www.microsoft.com/" target="_blank">
+													 <span class="image featured"><img alt="Microsoft" title="Sponsored by Microsoft" src="{{ site.baseurl }}/images/sponsors/microsoft-140.png" /></span>
+												</a>
+											</p>
+										</div>
+										<div>
+											<a href="http://www.adeetc.isel.pt/pt/">See all sponsors.</a>
+										</div>
+									</section>
+
+									<!--<section>
+										<h3>Just a Subheading</h3>
+										<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
+										Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
+										Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis et nisi etiam.</p>
+										<footer>
+											<a href="#" class="button">Continue Reading</a>
+										</footer>
+									</section>-->
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<div id="footer">
+				<!--<div class="container">
+					<div class="row">
+						<section class="3u 6u(narrower) 12u$(mobilep)">
+						</section>
+						<section class="3u 6u$(narrower) 12u$(mobilep)">
+						</section>
+						<section class="6u 12u(narrower)">
+						</section>
+					</div>
+				</div>-->
+
+				<!-- Icons -->
+
+				<!-- Copyright -->
+			    <div class="copyright">
+					<ul class="menu">
+						<li>&copy; CETC 2016 </li><li>Based on Arcana template design by HTML5 UP</li>
+					</ul>
+				</div>
+			</div>
+
+	</body>
+</html>
