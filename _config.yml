@@ -1,7 +1,7 @@
 name: "CETC 2016"
 description: "Web site for the CETC 2016 conference"
 
-url: http://cetc2016.github.io/
+url: http://cetc2016.github.io
 
 markdown: kramdown
 permalink: pretty
