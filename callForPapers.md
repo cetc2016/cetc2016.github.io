@@ -92,4 +92,3 @@ ROBOTICS & CONTROL SYSTEMS
 |Full paper submission and registration of at least one author |  | 
 |Early bird registration deadline| |
 | Conference dates| 3rd - 5th, February|
-
