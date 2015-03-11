@@ -82,7 +82,7 @@ ROBOTICS & CONTROL SYSTEMS
 * Computer Vision and Processing
 
 
-##<a name="call-for-papers-dates">Inportant Dates</a>##
+##<a name="call-for-papers-dates">Important Dates</a>##
 
 {:.default}
 | Event    |      Date     | 
