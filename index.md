@@ -39,7 +39,7 @@ Superior de Engenharia de Lisboa).
 
 ##<a name="home-contacts">Contacts</a>
 
-**CETC2013 - Conference on Electronics, Telecommunications and Computers Instituto
+**CETC2016 - Conference on Electronics, Telecommunications and Computers Instituto
  Superior de Engenharia de Lisboa**  
 **ISEL-ADEETC**  
 **Rua Conselheiro Emídio Navarro, 1, 1959-007 Lisboa, Portugal**
@@ -53,9 +53,9 @@ Mail: <cetc@deetc.isel.pt>
 
 ##<a name="home-previous">Previous Editions</a>##
 
-**CETC2013** is the second edition of the Conference on Electronics 
+**CETC2016** is the third edition of the Conference on Electronics 
 Telecommunications and Computers and it is born out of the success and growth of 
-the previous edition held in 2011 and the four editions of “Jornadas de Engenharia 
+the previous editions held in 2013 and 2011 and the four editions of “Jornadas de Engenharia 
 Electrónica e Telecomunicações e de Computadores” organized by ISEL in from 1999 
 to 2008.
 
