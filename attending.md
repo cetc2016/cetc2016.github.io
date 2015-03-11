@@ -14,7 +14,7 @@ Rua Conselheiro Emídio Navarro, 1
 1959-007 Lisboa  
 Portugal
 
-**PUBLIC TRANSPORT**  
+**PUBLIC TRANSPORTATION**  
 Metro (Metropolitano de Lisboa), Red Line, Stop: Chelas
 
 **About ISEL**  
