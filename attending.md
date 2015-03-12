@@ -4,8 +4,6 @@ layout: default
 menu: attending
 ---
 
-#Attending
-
 ##<a name="attending-venue">Venue</a>##
 
 **Address**  

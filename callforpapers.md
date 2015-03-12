@@ -4,8 +4,6 @@ layout: default
 menu: call-for-papers
 ---
 
-#Call For Papers
-
 ##<a name="call-for-papers-topics">Conference Topics</a>##
 
 We invite submissions in the topics given below. Papers in topics not listed but 

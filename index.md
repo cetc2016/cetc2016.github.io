@@ -4,8 +4,6 @@ layout: default
 menu: home
 ---
 
-#CETC 2016
-
 ##<a name="home-welcome">Welcome</a>##
 
 We are pleased to invite you to  **CETC 2016**, to be held in Lisbon during 3th – 
@@ -25,17 +23,6 @@ Telecommunications and Computers and it is organized by the Department of
 Electronics, Telecommunications and Computers Engineering of ISEL (Instituto 
 Superior de Engenharia de Lisboa).
 
-
-##<a name="home-dates">Dates</a>##
-
-{:.default}
-| Event    |      Date     | 
-|----------| ------------- |
-| Abstract submission (see Call for Papers) |  |
-|Author notification |     |  
-|Full paper submission and registration of at least one author |  | 
-|Early bird registration deadline| |
-| Conference dates| 3rd - 5th, February|
 
 ##<a name="home-contacts">Contacts</a>
 

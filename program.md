@@ -4,8 +4,6 @@ layout: default
 menu: program
 ---
 
-#Program
-
 ##Conference Chair 
 
 Manuela Vieira (ISEL-ADEETC) 
