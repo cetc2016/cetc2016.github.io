@@ -51,6 +51,7 @@ MULTIMEDIA SYSTEMS & APPLICATIONS
 BIOMEDICAL APPLICATIONS
 
 {:.default}
+* Bioinformatics
 * Medical Imaging
 * Devices and Systems
 * Biomedical Electronics
