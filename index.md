@@ -34,7 +34,7 @@ Superior de Engenharia de Lisboa).
 Phone: (+351) 218 317 289  
 Fax: (+351) 218 317 114
 
-Web: [http://www.adeetc.isel.pt/cetc16/](http://www.adeetc.isel.pt/cetc16/)  
+Web: [http://cetc2016.isel.pt/](http://cetc2016.isel.pt/)  
 Mail: <cetc@deetc.isel.pt>
 
 
