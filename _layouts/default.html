@@ -81,7 +81,9 @@
                                     <li><a href="#">Social Program</a></li>
                                 </ul>
                             </li>
-							<li><a href="#">Sponsorship</a></li>
+							<li {% if "sponsors" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/sponsors">Sponsorship</a>
+                            </li>
 							<li><a href="#">Registration</a></li>
 						</ul>
 					</nav>

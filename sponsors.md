@@ -1,4 +1,9 @@
-# Sponsors
+---
+title: Sponsors
+layout: default
+menu: sponsors
+---
+
 CETC 2016 is an international conference in the field of Electronics, Telecommunications and Computers. The aim of the conference is to provide a platform for engineers to disseminate and discuss their current research findings and also to explore recent developments, current practices and future trends in the field. The last edition in 2013 (http://www.adeetc.isel.pt/cetc13/) was a success with over one hundred participants from academia and industry. The event is an excellent opportunity to present new products and services to the scientific community and industry professionals in the field.  
 
 An important factor in the success of the previous conference was the support from our sponsors, we this in mind we are seeking your support in the forthcoming event. We have four sponsorship levels available, each providing a specific level of recognition and opportunity for company advertisement:   
@@ -15,7 +20,3 @@ Since this event is organised by ISEL, Área Departamental de Engenharia de Elec
 
 **Contact Person:** António Serrador   
 **Email:** <aserrador@deetc.isel.ipl.pt>
-
-
-
-
