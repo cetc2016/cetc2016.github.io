@@ -86,8 +86,8 @@ ROBOTICS & CONTROL SYSTEMS
 {:.default}
 | Event    |      Date     | 
 |----------| ------------- |
-| Abstract submission (see Call for Papers) |  |
-|Author notification |     |  
-|Full paper submission and registration of at least one author |  | 
+| Abstract submission (see Call for Papers) |  21 December 2015|
+|Author notification |   15 February 2016   |  
+|Full paper submission and registration of at least one author | 18 April 2016 | 
 |Early bird registration deadline| |
-| Conference dates| 3rd - 5th, February|
+| Conference dates| 15th - 17th June 2016|
