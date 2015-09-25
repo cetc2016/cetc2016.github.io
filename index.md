@@ -49,7 +49,7 @@ to 2008.
 {:.default}
 |Dates | 	Previous  Editions |
 |------| -------|
-|2013 |  Conference on Electronics, Telecommunications and Computers, [CETC2013](http://www.adeetc.isel.pt/cetc13/) |
+|2013 |  Conference on Electronics, Telecommunications and Computers, [CETC2013](http://www2.adeetc.isel.pt/cetc13/) |
 |2011 |	Conference on Electronics, Telecommunications and Computers, [CETC2011](http://www.deetc.isel.pt/cetc11/index.html)|
 |2008 |	Quartas Jornadas de Engenharia de Electrónica e Telecomunicações e de Computadores, [JETC08](http://www.deetc.isel.ipl.pt/jetc05/jetc08/)|
 |2005 |	Terceiras Jornadas de Engenharia de Electrónica e Telecomunicações e de Computadores, [JETC05](http://www.deetc.isel.ipl.pt/jetc05/) |
