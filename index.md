@@ -6,8 +6,8 @@ menu: home
 
 ##<a name="home-welcome">Welcome</a>##
 
-We are pleased to invite you to  **CETC 2016**, to be held in Lisbon during 3th – 
-5th February 2016.
+We are pleased to invite you to  **CETC 2016**, to be held in Lisbon during 15th –
+17th June 2016.
 
 CETC 2016 is a premier conference in the broad field of Electronics, 
 Telecommunications and Computers. The aim of the conference is to provide a
