@@ -10,10 +10,13 @@ Manuela Vieira (ISEL-ADEETC)
 
 ##<a name="program-organizing-committee">Organizing Committee</a>##
 
-Alessandro Fantoni (ISEL-ADEETC)  
-Artur Ferreira (ISEL-ADEETC)  
+Alessandro Fantoni (ISEL-ADEETC)
+António Couto Pinto (ISEL-ADEETC)
+António Serrador (ISEL-ADEETC)
+Artur Ferreira (ISEL-ADEETC)
 Cátia Vaz (ISEL-ADEETC)   
-Fernando Carvalho (ISEL-ADEETC)  
+David Coutinho (ISEL-ADEETC)   
+Fernando Miguel Carvalho (ISEL-ADEETC)  
 João Costa (ISEL-ADEETC)  
 Joel Paulo (ISEL-ADEETC)  
 José Nascimento (ISEL-ADEETC)  
