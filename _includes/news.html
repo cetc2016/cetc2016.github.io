@@ -3,8 +3,21 @@
 								<!-- Sidebar 1 -->
 
 									<section>
-										<h3>News</h3>
-										<p>CETC site published.</p>
+										<h2>News</h2>
+										{% for post in paginator.posts %}
+                                        <div>
+                                            <a href="{{ post.url | prepend: site.baseurl }}">
+                                                <h3 class="post-title">
+                                                    {{ post.title }}, {{ post.date | date: "%B %-d, %Y" }}</h3>
+                                            </a>
+                                            <p class="post-meta">
+                                                {{ post.content | strip_html | truncatewords:75}}
+                                                <br>
+                                                <a href="{{ post.url }}">Read more...</a>
+                                            </p>
+                                        </div>
+                                        <hr>
+                                        {% endfor %}
 										<footer>
 											<a href="#" class="button">Continue Reading</a>
 										</footer>
