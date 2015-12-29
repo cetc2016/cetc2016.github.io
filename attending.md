@@ -1,6 +1,6 @@
 ---
 title: Attending
-layout: default
+layout: page
 menu: attending
 ---
 

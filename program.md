@@ -1,6 +1,6 @@
 ---
 title: Program
-layout: default
+layout: page
 menu: program
 ---
 

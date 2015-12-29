@@ -1,6 +1,6 @@
 ---
 title: Call For Papers
-layout: default
+layout: page
 menu: call-for-papers
 ---
 
