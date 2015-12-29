@@ -5,3 +5,5 @@ url: http://cetc2016.github.io
 
 markdown: kramdown
 permalink: pretty
+paginate: 10
+paginate_path: "/page:num/"
