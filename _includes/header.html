@@ -1,0 +1,97 @@
+		<!-- Header -->
+			<div id="header">
+
+				<!-- Logo -->
+					<h1>
+                        <a href="index.html" id="logo">{{ site.name }}</a> 
+                        <br />
+                        Conference on Electronics, Telecommunications and Computers
+                        <br />
+                        15th – 17th June 2016, Lisbon, Portugal
+                    </h1>
+                    
+					<!--<span class="image banner"><img src="images/banner.jpg" alt="" /></span>-->
+					<!-- <section id="banner_bmenu"> </section> -->
+
+                <div id="jssor_carrosel">
+                    <!-- Jssor Slider Begin -->
+                    <div id="slider1_container" class="slider1_container1">
+                        <!-- Slides Container -->
+                        <div u="slides" class="slides1">
+                            <div>
+                                <img u="image" src2="/images/banner.jpg" />
+                            </div>
+                            <div>
+                                <img u="image" src2="/images/banner-lisboa-2.jpg" />
+                            </div>
+                            <div>
+                                <img u="image" src2="/images/banner-lisboa-3.jpg" />
+                            </div>
+                        </div>
+
+                        <!-- bullet navigator container -->
+                        <div u="navigator" class="jssorb21">
+                            <!-- bullet navigator item prototype -->
+                            <div u="prototype"></div>
+                        </div>
+                        <!--#endregion Bullet Navigator Skin End -->
+                        <!-- Arrow Left -->
+                        <span u="arrowleft" class="jssora21l" style="left: 8px;">
+                        </span>
+                        <!-- Arrow Right -->
+                        <span u="arrowright" class="jssora21r" style="right: 8px;">
+                        </span>
+                    </div>
+                    <!-- Jssor Slider End -->
+                </div>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+                            <li {% if "home" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}">Home</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/#home-welcome">Welcome</a></li>
+                                    <li><a href="{{site.url}}/#home-contacts">Contacts</a></li>
+                                    <li><a href="{{site.url}}/#home-previous">Previous Editions</a></li>
+                                </ul>
+                            </li>
+                            <li {% if "call-for-papers" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/callforpapers">Call For Papers</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/callforpapers#call-for-papers-topics">Conference Topics</a></li>
+                                    <li><a href="{{site.url}}/callforpapers#call-for-papers-dates">Important Dates</a></li>
+                                    <!-- <li><a href="#">Submission</a></li> -->
+                                    <!-- <li><a href="#">Proceedings</a></li>-->
+                                    <!-- <li><a href="#">Awards</a></li>-->
+                                </ul>
+                            </li>
+                            <li {% if "attending" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/attending">Attending</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/attending#attending-venue">Venue</a></li>
+                                    <li><a href="{{site.url}}/attending#attending-about-lisbon">About Lisbon</a></li>
+                                    <!--<li><a href="#">Accommodation</a></li>-->
+                                    <!--<li><a href="#">Visa Information</a></li>-->
+                                </ul>
+                            </li>
+                            <li {% if "program" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/program">Program</a>
+                                <ul>
+                                    <li><a href="{{site.url}}/program#program-organizing-committee">Organizing Committee</a></li>
+                                    <!--<li><a href="#">Scientific Committee</a></li>-->
+                                    <!--<li><a href="#">Keynote Speakers</a></li>-->
+                                    <!--<li><a href="#">Scientific Program</a></li>-->
+                                    <!--<li><a href="#">Social Program</a></li>-->
+                                </ul>
+                            </li>
+							<li {% if "sponsors" == page.menu %}class="current" {% endif %}>
+                                <a href="{{site.url}}/sponsors">Sponsorship</a>
+                            </li>
+							<li><a href="#">Registration</a></li>
+						</ul>
+					</nav>
+
+			</div>
+            
