@@ -93,3 +93,12 @@ ROBOTICS & CONTROL SYSTEMS
 |Full paper Camera-Ready version|6 June 2016|
 |Early bird registration deadline| to be announced|
 | Conference dates| 15th - 17th June 2016|
+
+##<a name="call-for-papers-submission">Submission</a>##
+
+The extended abstract (2-page short paper) submission in PDF format, in this 
+[format](/resources/CETC_template.pdf),
+can be done [here](https://easychair.org/conferences/?conf=cetc2016).
+
+For MSWord authors, please use this [file](/resources/CETC_Template.doc); 
+for LaTeX users, please use this [template](/resources/CETC2016_Template_Latex.zip).
