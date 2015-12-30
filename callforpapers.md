@@ -83,11 +83,22 @@ ROBOTICS & CONTROL SYSTEMS
 
 ##<a name="call-for-papers-dates">Important Dates</a>##
 
+###Extended Abstract (2-page Short-paper):
+
 {:.default}
 | Event    |      Date     | 
 |----------| ------------- |
 | Abstract submission (see Call for Papers) |  15 February 2016|
 |Author notification (abstract) |   21 March 2016|  
+|Revised abstract submission | 18 April 2016|  
+|Registration of at least one author | 18 April 2016|  
+
+
+###Full-paper (4-page), for authors of accepted extended abstracts:
+
+{:.default}
+| Event    |      Date     | 
+|----------| ------------- |
 |Full paper submission and registration of at least one author | 18 April 2016 |
 |Author notification (full-paper)|23 May 2016|
 |Full paper Camera-Ready version|6 June 2016|
