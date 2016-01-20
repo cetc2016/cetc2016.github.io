@@ -88,7 +88,7 @@ ROBOTICS & CONTROL SYSTEMS
 {:.default}
 | Event    |      Date     | 
 |----------| ------------- |
-| Abstract submission (see Call for Papers) |  12 September 2016|
+| Abstract submission (see Call for Papers) |  16 September 2016|
 |Author notification (abstract) |   21 October 2016|  
 |Revised abstract submission | 18 November 2016|  
 |Registration of at least one author | 18 November 2016|  
