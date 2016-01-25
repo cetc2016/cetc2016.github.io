@@ -92,18 +92,16 @@ ROBOTICS & CONTROL SYSTEMS
 |Author notification (abstract) |   21 October 2016|  
 |Revised abstract submission | 18 November 2016|  
 |Registration of at least one author | 18 November 2016|  
-
+|Conference dates| 6th - 7th Decenber 2016|
 
 ###Full-paper (4-page), for authors of accepted extended abstracts:
 
 {:.default}
 | Event    |      Date     | 
 |----------| ------------- |
-|Full paper submission and registration of at least one author | 18 November 2016 |
+|Full paper submission| 18 November 2016 |
 |Author notification (full-paper)|to be announced|
 |Full paper Camera-Ready version|to be announced|
-|Early bird registration deadline| to be announced|
-|Conference dates| 6th - 7th Decenber 2016|
 
 ##<a name="call-for-papers-submission">Submission</a>##
 
