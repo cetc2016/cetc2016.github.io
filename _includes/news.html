@@ -7,14 +7,16 @@
 										{% for post in paginator.posts %}
                                         <div>
                                             <a href="{{ post.url | prepend: site.baseurl }}">
-                                                <h3 class="post-title">
-                                                    {{ post.title }}, {{ post.date | date: "%B %-d, %Y" }}</h3>
+                                                <h3 class="post-title">{{ post.title }}</h3>
                                             </a>
                                             <p class="post-meta">
                                                 {{ post.content | strip_html | truncatewords:75}}
                                                 <br>
                                                 <a href="{{ post.url }}">Read more...</a>
+                                                <br/>
+                                                (<strong>{{ post.date | date: "%B %-d, %Y" }}</strong>)
                                             </p>
+                                            
                                         </div>
                                         <hr>
                                         {% endfor %}
