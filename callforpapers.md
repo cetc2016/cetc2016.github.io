@@ -4,7 +4,7 @@ layout: page
 menu: call-for-papers
 ---
 
-##<a name="call-for-papers-topics">Conference Topics</a>##
+## <a name="call-for-papers-topics">Conference Topics</a>
 
 We invite submissions in the topics given below. Papers in topics not listed but 
 related to Electronics, Telecommunications and Computers will also be considered 
@@ -81,9 +81,9 @@ ROBOTICS & CONTROL SYSTEMS
 * Computer Vision and Processing
 
 
-##<a name="call-for-papers-dates">Important Dates</a>##
+## <a name="call-for-papers-dates">Important Dates</a>
 
-###Extended Abstract (2-page Short-paper):
+### Extended Abstract (2-page Short-paper):
 
 {:.default}
 | Event    |      Date     | 
@@ -94,7 +94,7 @@ ROBOTICS & CONTROL SYSTEMS
 |Registration of at least one author | 18 November 2016|  
 |Conference dates| 6th - 7th Decenber 2016|
 
-###Full-paper (4-page), for authors of accepted extended abstracts:
+### Full-paper (4-page), for authors of accepted extended abstracts:
 
 {:.default}
 | Event    |      Date     | 
@@ -103,7 +103,7 @@ ROBOTICS & CONTROL SYSTEMS
 |Author notification (full-paper)|to be announced|
 |Full paper Camera-Ready version|to be announced|
 
-##<a name="call-for-papers-submission">Submission</a>##
+## <a name="call-for-papers-submission">Submission</a>
 
 The extended abstract (2-page short paper) submission in PDF format, in this 
 [format](/resources/CETC_template.pdf),

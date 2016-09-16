@@ -4,7 +4,7 @@ layout: page
 menu: attending
 ---
 
-##<a name="attending-venue">Venue</a>##
+## <a name="attending-venue">Venue</a>
 
 **Address**  
 Instituto Superior de Engenharia de Lisboa (ISEL)  
@@ -29,7 +29,7 @@ Mechanical Engineering) where about 6,000 students are studying in one of the 7
 graduate or 8 masterdegree courses, in daytime or after work.
 
 
-##<a name="attending-about-lisbon">About Lisbon</a>##
+## <a name="attending-about-lisbon">About Lisbon</a>
 
 Lisbon is the capital city and largest city of Portugal. The city of Lisbon is 
 rich in architecture: Romanesque, Gothic, Manueline, Baroque, Modern and 

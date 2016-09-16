@@ -4,11 +4,11 @@ layout: page
 menu: program
 ---
 
-##Conference Chair 
+## Conference Chair 
 
 Manuela Vieira (ISEL-ADEETC) 
 
-##<a name="program-organizing-committee">Organizing Committee</a>##
+## <a name="program-organizing-committee">Organizing Committee</a>
 
 Alessandro Fantoni (ISEL-ADEETC)  
 António Couto Pinto (ISEL-ADEETC)  
