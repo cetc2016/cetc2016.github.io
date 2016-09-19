@@ -13,8 +13,6 @@ author:
   display_name: 
 ---
 
-## Papers templates
-
 The extended abstract (2-page short paper) submission in PDF format, in this 
 [format](/resources/CETC_template.pdf),
 can be done [here](https://easychair.org/conferences/?conf=cetc2016).

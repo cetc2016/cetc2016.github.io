@@ -13,8 +13,6 @@ author:
   display_name:   
 ---
 
-##Call for papers - dates
-
 Submission dates:
 
 {:.default}
