@@ -4,18 +4,14 @@ layout: page
 menu: registration
 ---
 
-For each accepted paper, at least one author should be registered by November, 5th. 
+For each accepted paper, at least one author should be registered by November, 18th. 
 Each student registration should be accompanied by a copy (scan) of the student card.
 
-## Registration Dates:
-
 {:.default}
-| Type fo registration   |      Before  November, 5th   |  After November, 5th
+| Type of registration   |      Before  November, 18th   |  After November, 18th
 |----------| ------------- |------------- |
 | Student |  120| 150 |
 | Non-student |  200 |  280 |
-
-## Registration fee payment
 
 Please make a Direct Bank Transfer to:
 
