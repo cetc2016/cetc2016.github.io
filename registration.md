@@ -31,7 +31,7 @@ Country: Portugal
 Account Number:  078101120000000297279  
  
 Please fill-in the Registration Form ([doc](/resources/Registration_Form.doc) or 
-[pdf](Registration_Form.pdf)) and send it together 
+[pdf](/resources/Registration_Form.pdf)) and send it together 
 with a scanned copy of the Bank Transfer Receipt to [cetc@deetc.isel.pt](cetc@deetc.isel.pt)
 
 The registration fee include: access to the conference, Coffee Breaks, Buffet Lunch and 
