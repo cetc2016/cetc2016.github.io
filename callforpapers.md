@@ -83,8 +83,6 @@ ROBOTICS & CONTROL SYSTEMS
 
 ## <a name="call-for-papers-dates">Important Dates</a>
 
-### Extended Abstract (2-page Short-paper):
-
 {:.default}
 | Event    |      Date     | 
 |----------| ------------- |
@@ -94,15 +92,6 @@ ROBOTICS & CONTROL SYSTEMS
 |Registration of at least one author | 18 November 2016|  
 |Conference dates| 6th - 7th Decenber 2016|
 
-### Full-paper (4-page), for authors of accepted extended abstracts:
-
-{:.default}
-| Event    |      Date     | 
-|----------| ------------- |
-|Full paper submission| 18 November 2016 |
-|Author notification (full-paper)|to be announced|
-|Full paper Camera-Ready version|to be announced|
-
 ## <a name="call-for-papers-submission">Submission</a>
 
 The extended abstract (2-page short paper) submission in PDF format, in this 
@@ -111,3 +100,9 @@ can be done [here](https://easychair.org/conferences/?conf=cetc2016).
 
 For MSWord authors, please use this [file](/resources/CETC_Template.doc); 
 for LaTeX users, please use this [template](/resources/CETC2016_Template_Latex.zip).
+
+Authors of the extended abstracts presented at the conference venue are invited to
+submit a full-paper version of their work, with up to 6 pages, no later than 23
+January of 2017, to the
+[Academic Journal i-ETC](http://journals.isel.pt/index.php/i-ETC). Please note 
+that publication on this Journal is subject to an additional peer review process.
