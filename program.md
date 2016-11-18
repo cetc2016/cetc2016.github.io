@@ -4,6 +4,8 @@ layout: page
 menu: program
 ---
 
+[Oral and poster sessions outline](/resources/CETC2016 - Program_Outline.pdf).
+
 ## Conference Chair 
 
 Manuela Vieira (ISEL-ADEETC) 
@@ -31,7 +33,7 @@ Vítor Costa (ISEL-ADEETC)
 
 ## <a name="program-scientific-committee">Scientific Committee</a>
 
-Alessandro Fantoni (ISEL)
+Alessandro Fantoni ISEL)
 Alexandre Francisco(IST and INESC-ID)
 André Lourenço (ISEL and CardioID)
 António Couto Pinto (ISEL and INESC-ID)
