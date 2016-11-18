@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oral and poster sessions outline
-date: 2015-12-29
+date: 2016-11-18
 type: post
 published: true
 status: publish
