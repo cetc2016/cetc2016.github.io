@@ -13,4 +13,4 @@ author:
   display_name: 
 ---
 
-You can find the oral and poster sessions outline [here](/resources/CETC2016 - Program_Outline.pdf).
+You can find the oral and poster sessions outline [here](/resources/CETC2016 - Program - Print.pdf).
