@@ -4,7 +4,7 @@ layout: page
 menu: program
 ---
 
-[Oral and poster sessions outline](/resources/CETC2016 - Program_Outline.pdf).
+[Oral and poster sessions outline](/resources/CETC2016 - Program - Print.pdf).
 
 ## Conference Chair 
 
