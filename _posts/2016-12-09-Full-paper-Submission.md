@@ -14,7 +14,7 @@ author:
 ---
 
 Prospective authors are invited to submit their full-papers written in professional
-English, with up to 6 pages, no later than 23rd January 2017, in PDF format, to the
+English, with up to 6 pages, no later than 6th February 2017, in PDF format, to the
 i-ETC journal, through its Web Address [http://journals.isel.pt/index.php/iETC](http://journals.isel.pt/index.php/iETC).
 The title of the full-paper must match exactly the title of the extended abstract,
 presented at CETC2016
